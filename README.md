@@ -2,4 +2,4 @@
 
 A simple password generator built using javascript
 
-[View](https://anvin23.github.io/Password-Generator/) the site
+[View](https://anvincs.github.io/Password-Generator/) the site
